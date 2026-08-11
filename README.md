@@ -59,4 +59,4 @@ Output files will be saved to the `results/` directory:
 
 ## Author
 
-Pradeep Chowdary
+Venkata Pradeep Kumar Athota
