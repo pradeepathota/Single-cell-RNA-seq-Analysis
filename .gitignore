@@ -1,5 +1,6 @@
-# Data files
-*.txt
+# Data files (but NOT requirements.txt)
+GSE72056_melanoma_single_cell_revised_v2.txt
+results/
 *.csv
 *.tsv
 *.h5ad
